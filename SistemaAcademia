@@ -1,0 +1,12 @@
+SistemaAcademia/
+│
+├── src/
+│   ├── model/
+│   ├── controller/
+│   ├── view/
+│   ├── repository/
+│   ├── util/
+│   └── Main.java
+│
+├── README.md
+└── .gitignore
